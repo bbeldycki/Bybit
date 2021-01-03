@@ -1,0 +1,7 @@
+mypython/
+__pycache__/
+instance/
+*.pyc
+*~
+input_data.txt
+test_bybit.py
